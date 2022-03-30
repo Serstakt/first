@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body {
-background-color: rgb(245, 252, 250);
+background-color: #FFFFFF;
 color: rgb(2, 2, 2);
 font-size: 18px;
 font-weight: normal;
@@ -13,7 +13,7 @@ margin: auto;
 .container {
     margin-top: 5px;
     padding: 20px;
-    background-color: white;
+    background-color: #DFE2DB;
     border-radius: 10px;
     padding: 5px 15px;
 }
@@ -37,7 +37,7 @@ margin: auto;
 
 .contact {
     font-size: 20px;
-    background-color: rgb(247, 241, 195);
+    background-color: #DFE2DB;
     border-radius: 10px;
     padding: 5px 15px;
     margin-top: 15px;
@@ -60,7 +60,7 @@ a:visited {
 }
 
 .job {
-    background-color: rgb(241, 247, 164);
+    background-color: #DFE2DB;
     padding: 20px;
     border-radius: 10px;
     margin-top: 15px;
@@ -68,7 +68,7 @@ a:visited {
 }
 
 .skills {
-    background-color: rgb(247, 245, 146);
+    background-color: #DFE2DB;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-top: 10px;
@@ -78,7 +78,7 @@ a:visited {
 }
 
 .skills p {
-    background-color: #9ee9bf;
+    background-color: #FFF056;
     font-size: 18px;
     margin: 15px;
     padding: 10px;
@@ -87,7 +87,7 @@ a:visited {
 }
 
 .mainskill {
-    background-color: rgb(247, 245, 146);
+    background-color: #DFE2DB;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 5px 15px;
@@ -97,7 +97,7 @@ a:visited {
 }
 
 .mainskill p {
-    background-color: #9ee9bf;
+    background-color: #FFF056;
     font-size: 18px;
     margin: 15px;
     padding: 10px;
@@ -109,7 +109,7 @@ a:visited {
     text-align: center;
 }
 .maintable {
-    background-color: rgb(225, 248, 121);
+    background-color: #DFE2DB;
     padding: 20px;
     margin-top: 15px;
     border-radius: 10px;
